@@ -1,0 +1,30 @@
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content:  center;
+
+
+}
+.internalContainer{
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 150px; */
+    width: 250px;
+    margin : auto auto;
+
+
+}
+.container{
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+
+}

@@ -1,0 +1,22 @@
+.roomMainContainer{
+    margin: auto auto ;
+    height: 200px;
+    width: 250px;
+    background-color: rgb(224, 159, 159);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.roomContainer{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    margin: 5px;
+    border-radius: 5px  ;
+
+}

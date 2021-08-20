@@ -1,0 +1,22 @@
+.internalMain{
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    align-items: center;
+
+}
+h1{
+    display: inline-block;
+    margin-top: 10vh;
+}
+.Container{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(209, 128, 128);
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
