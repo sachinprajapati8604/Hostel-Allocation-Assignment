@@ -1,15 +1,15 @@
 import firebase from "firebase";
 const firebaseConfig = {
-    apiKey: "AIzaSyAaS2aQL3zipwdIG5Vf9jF0_UscDwKS3CI",
-    authDomain: "hostelmanagementassignment.firebaseapp.com",
-    projectId: "hostelmanagementassignment",
-    storageBucket: "hostelmanagementassignment.appspot.com",
-    messagingSenderId: "42487408656",
-    appId: "1:42487408656:web:94c9a72ec3c9e5af56c295",
-    measurementId: "G-DM1JSKYZRE"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
+  apiKey: "AIzaSyAE6_cS6cjbihrmMhPEM3iY66M-hAjB9BM",
+  authDomain: "hotel-allocation-e57e3.firebaseapp.com",
+  projectId: "hotel-allocation-e57e3",
+  storageBucket: "hotel-allocation-e57e3.appspot.com",
+  messagingSenderId: "156047840772",
+  appId: "1:156047840772:web:dd5e0f957990abae314751",
+  measurementId: "G-4DJ16ZYGCW"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+firebase.analytics();
 
-  export default firebase;
+export default firebase;
